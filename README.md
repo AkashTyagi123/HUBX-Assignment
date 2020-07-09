@@ -23,7 +23,7 @@
    <li>
           Browser should open automatically. The app is ready to use
           </li>
-
+   <span>Make sure to replace the db username,password and db name in the connection string present in /backend/config/default.json. Else you will get Authentication error from MongoDB</span>
   </ul>
 
   <h3>Tech Stack used</h3>
