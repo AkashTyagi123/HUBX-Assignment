@@ -41,3 +41,6 @@
           Express
           </li>
   </ul>
+  
+  <h3>Project screenshot</h3>
+  <img src='src/screenshots/allEvent.png'/>
