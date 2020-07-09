@@ -1,0 +1,68 @@
+.top-navbar{
+  background-color: #000;
+  color:#fff;
+}
+.nav-link{
+  color:#000!important;
+}
+
+.card-title{
+  color:#000;
+
+}
+.signup{
+  height: 100vh;
+  width: 100vw;
+  background-image: url('./images/signup2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 1;
+}
+.login{
+  height: 100vh;
+  width: 100vw;
+  background-image: url('./images/login.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 1;
+  
+}
+.imp-links{
+  color:#fff!important;
+}
+label{
+  font-weight: bold;
+  
+}
+form{
+  width:50%;
+  margin-left: 25%;
+ 
+}
+.form-input{
+  background: transparent!important;
+  border:none!important;
+  border-bottom: 1px solid #fff!important;
+  color:#fff!important;
+  
+}
+.form-label{
+  color:#fff;
+  font-size: 1.5rem;
+}
+input:focus{
+  border: 1px solid #fff!important;
+  background-color: #fff!important;
+  color:#000!important;
+}
+.logo{
+  font-weight: bold;
+  font-size: 2rem;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+.navbar-toggler{
+  background-color: #000;
+}
