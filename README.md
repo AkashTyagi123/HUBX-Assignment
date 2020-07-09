@@ -43,4 +43,19 @@
   </ul>
   
   <h3>Project screenshot</h3>
+  <h5>All Event Page</h5>
   <img src='src/screenshots/allEvent.png'/>
+  
+  <h5>Login</h5>
+  <img src='src/screenshots/login.png'/>
+  
+  
+  <h5>Register</h5>
+  <img src='src/screenshots/register.png'/>
+  
+  
+  <h5>Event Register</h5>
+  <img src='src/screenshots/event.png'/>
+  
+  <h5>Auth err</h5>
+  <img src='src/screenshots/auth.png'/>
